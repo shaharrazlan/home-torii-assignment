@@ -1,0 +1,19 @@
+{
+  "name": "home-torii-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "moment-timezone": "^0.5.46",
+    "nock": "^13.5.6"
+  }
+}
