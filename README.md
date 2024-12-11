@@ -3,6 +3,8 @@
 
 A powerful Node.js application that tracks the current Bitcoin-to-USD exchange rate every minute and stores it in Airtable. Designed with resilience in mind, it queues unsent data during downtime and retries once Airtable is back online.
 
+Link to Table: https://airtable.com/invite/l?inviteId=invJfYH4uzG0Md9RR&inviteToken=d722ca34e4cb1c875a8890164b439cb4691e4dfbd3f166a9c7b22ef988cc3402&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+
 ---
 
 ## 🚀 Features
